@@ -1,0 +1,3 @@
+Hello...
+Just experimenting with git.
+I am exited to work on the odin project
